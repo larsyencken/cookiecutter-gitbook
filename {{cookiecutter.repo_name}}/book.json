@@ -1,0 +1,10 @@
+{
+	"gitbook": ">=0.3.6",
+	"pdf": {
+		"fontSize": "10",
+		"paperSize": "a5"
+	},
+	"plugins": [
+		"katex"
+	]
+}
